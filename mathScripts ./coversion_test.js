@@ -1,9 +1,11 @@
+
+//pasrseInt
 var a = " 101.1 "; 
 var b = "55";
 var c = "402 Stevens"; 
 var d = "Number 5 ";
 
-//pasrseInt
+
 var a = parseInt(a);
 console.log(a)
 var b = parseInt(b);
@@ -13,12 +15,12 @@ console.log(c)
 var d = parseInt(d);
 console.log(d)
 
-
+//parseFloat
 var a = " 101.1 "; 
 var b = "55";
 var c = "402 Stevens"; 
 var d = "Number 5 ";
-//parseFloat
+
 
 var a = parseFloat(a);
 console.log(a)
@@ -29,12 +31,12 @@ console.log(c)
 var d = parseFloat(d);
 console.log(d)
 
+//number()
 var a = " 101.1 "; 
 var b = "55";
 var c = "402 Stevens"; 
 var d = "Number 5 ";
 
-//number()
 
 var a = Number(a);
 console.log(a)
@@ -45,8 +47,8 @@ console.log(c)
 var d = Number(d);
 console.log(d)
 
-//unary+
 
+//unary+
 var a = " 101.1 "; 
 var b = "55";
 var c = "402 Stevens"; 
